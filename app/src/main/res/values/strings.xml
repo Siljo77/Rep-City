@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rep City</string>
+    <string name="enter_gender">Enter gender</string>
+    <string name="rep_city">REP CITY</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="select_level">Select Level</string>
+    <string name="beginner">Beginner</string>
+    <string name="advance">Advance</string>
+    <string name="enter_level">Enter Level</string>
+    <string name="professional">Professional</string>
+</resources>
